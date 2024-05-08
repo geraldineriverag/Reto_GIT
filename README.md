@@ -7,7 +7,7 @@ Este repositorio contiene los pasos realizados en el reto de GitHub, que incluye
 
 ## Pasos realizados:
 
-1. **Creación del repositorio:** Se creó un repositorio nuevo llamado "reto_GIT" desde la versión web de GitHub.
+1. **Creación del repositorio:** Se creó un repositorio nuevo llamado "Reto_GIT" desde la versión web de GitHub.
 
 2. **Subida del proyecto Java:** Se subió la carpeta "src" de un proyecto Java al repositorio.
 
