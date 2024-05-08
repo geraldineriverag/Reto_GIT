@@ -17,7 +17,7 @@ Este repositorio contiene los pasos realizados en el reto de GitHub, que incluye
 
 5. **Creación de una clase nueva:** Se creó una nueva clase y se actualizó la rama con el comentario "Nueva clase - Doc".
 
-6. **Modificación de la clase nueva:** Se modificó un atributo de la clase nueva y se actualizó la rama con el comentario "Cambios - NombreDeLaClase".
+6. **Modificación de la clase nueva:** Se modificó un atributo de la clase nueva y se actualizó la rama con el comentario "Cambios - Doc".
 
 7. **Comprobación de los cambios:** Se realizó una comprobación de los cambios.
 
