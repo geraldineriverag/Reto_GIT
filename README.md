@@ -23,6 +23,7 @@ Este repositorio contiene los pasos realizados en el reto de GitHub, que incluye
 
 8. **Fusión de la rama "desarrolloPersona" con "main":** Se fusionó la rama "desarrolloPersona" con la rama principal "main".
 
-## Imagen del proceso:
+## Para finalizar, adjunto un cachorro que está tan feliz como yo por haber finalizado el reto:
 
 
+![Cachorro feliz](istockphoto-513133900-612x612.jpg)
